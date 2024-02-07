@@ -1,4 +1,4 @@
-### Match App:
+### Math App:
 
 O Aplicativo de Cálculo de Sapata Isolada é uma ferramenta desenvolvida em Python e Streamlit, projetada para oferecer suporte aos engenheiros civis no dimensionamento e projeto de fundações de sapata isolada para estruturas.
 
